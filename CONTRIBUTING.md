@@ -39,3 +39,26 @@ Te presentamos algunas herramientas open source para ayudarte en la tarea de de 
 
 - http://prose.io
 - http://dillinger.io
+
+## Esctructura de un archivo
+
+## Cuerpo de un documento
+
+```
+---
+layout: post
+title: ¿Cómo ampliar el alcance de tus convocatorias?
+author: Camila Urzua
+published: true
+date: 2017-01-19 15:21:13 -0300
+categories: convocatorias
+---
+```
+
+## Archivo fisico
+
+`2017-01-19-nombre-de-mi-archivo.md`
+
+## Sintaxis de los archivos
+
+Markdown, https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
