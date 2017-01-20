@@ -7,7 +7,7 @@ El contenido de datos abiertos que se presenta en el sitio https://socialab.gith
 
 ## ¿Por qué en Github?
 
-Administrar un proceso de colaboración masivo sobre una serie de documentos no es tarea fácil, y Github ha demostrado ser un mecanismo eficaz para este fin.
+Administrar un proceso de colaboración masivo sobre una serie de documentos no es tarea fácil, y Github ha demostrado ser un mecanismo eficaz para este fin. Esto permite evitar distintas versiones de un mismo documento o cambios que no favorezcan a todos los implicados.
 
 Para mas información lee la guia oficial de Github: https://guides.github.com/activities/hello-world/
 
@@ -26,14 +26,13 @@ Participa en un hilo de temas o inicia el propio para que tu voz se escuche.
 Envia un PR (Pull request) con tus cambios para mostrar tu contenido a la comunidad.
 
 #### Aporta con un grano de arena
-Ayudanos a asegurar que este repositorio sea completo. Si hay un tema que se pasa por alto, por favor, agregalo, incluso si es sólo una linea en forma de un 
-encabezado y una sola oración. Correacción de errores ortográficos, aclarar el lenguaje y, en general, mejorar la calidad del contenido.
+Ayudanos a asegurar que este repositorio sea completo. Si hay un tema que se pasa por alto, por favor, agregalo, incluso si es sólo una línea en forma de un encabezado y una sola oración. Corrección de errores ortográficos, aclarar el lenguaje y -en general- mejorar la calidad del contenido.
 
 #### Escribe
 Aporta con tu experiencia en un área ayudándonos a expandir el contenido incluido.
 
 #### Formato
-Ayuda a mantener el contenido fácil de leer con un formato consistente
+Ayuda a mantener el contenido fácil de leer con un formato consistente.
 
 ### Herramientas gratuitas para escribir contenido abierto
 Te presentamos algunas herramientas open source para ayudarte en la tarea de de escribir contenido.
