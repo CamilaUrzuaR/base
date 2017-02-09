@@ -9,10 +9,9 @@ categories: convocatorias
 
 # El manual del mentor
 
-#### Bienvenido! Haz sido elegido para ser mentor de ideas de innovación social, las cuales buscan resolver grandes problemas de la humanidad.
+#### ¡Bienvenido! Haz sido elegido para ser mentor de ideas de innovación social, las cuales buscan resolver distintos problemas sociales a nivel global.
 
-Toma este documento como una guía y no como un manual. 
-Después de tu experiencia como mentor envíanos tus aportes para seguir perfeccionando nuestro trabajo. 
+Antes que nada, toma este documento como una guía y no como un manual. Después de tu experiencia como mentor, por favor envíanos tus aportes para seguir perfeccionando nuestro trabajo. 
 
 
 ### CAPÍTULO I
@@ -20,81 +19,81 @@ Después de tu experiencia como mentor envíanos tus aportes para seguir perfecc
 
 1- Ingresa a http://comunidad.socialab.com/
 
-2- Estás registrado en la plataforma?  Si lo estás haz click en el botón “entrar”, de lo contrario regístrate y crea tu cuenta en la comunidad. Te recomendamos utilizar un correo electrónico que uses con frecuencia en vez de Facebook. 
+2- ¿Estás registrado en la plataforma?  Si lo estás haz click en el botón “*entrar*”. De lo contrario, regístrate y crea tu cuenta en la comunidad. Te recomendamos utilizar un correo electrónico que uses con frecuencia en vez de Facebook. Los botones de registro y entrada están en la esquina superior derecha del home de **Socialab**.
 
-3- Revisa tu correo. deberías verificar antes de ingresar. 
+![Home **Socialab**](https://preview.ibb.co/dGpnaa/homeSL.png)
 
-4- Personaliza tu perfil. A los emprendedores les gustará saber mas de ti. 
+3- Si es que te acabas de registrar, revisa tu correo. Te debería llegar un mail para confirmar tu cuenta y así nos aseguramos que efectivamente eres tú el dueño de la dirección que inscribiste. 
+
+4- Personaliza tu perfil. ¡A los emprendedores les gustará saber mas de ti! Para actualizar tu perfil, tienes que entrar a "*ver mi perfil*" haciendo *click* en tu foto en la esquina superior derecha. Entrarás a tu biografía, la que puedes editar tal como muestra la siguiente imagen:
+
+![Perfil usuario](https://image.ibb.co/cPfcaa/perfilSL.png) 
 
 
 ### CAPÍTULO II
-#### **Conoce los proyectos!** 
+#### **¡Conoce los proyectos!** 
 
-1- Debajo de tu perfil, encontrarás las ideas que te fueron asignadas para mentorear. 
+1- Una vez en tu perfil, también puedes revisar las ideas que has subido a la plataforma, apoyado y mentoreado. Esto lo puedes ver a medida que bajes en la misma página en la que está tu perfil. De esta forma, podrás chequear una a una las ideas que te han sido asignadas para mentorear. En cada una de las ideas podrás ver una foto distintiva, el nombre y el desafío al que fueron postuladas (en letras pequeñas y sobre el nombre) tal como muestra la siguiente imagen:
 
-2- Entra a las ideas que te han asignado y conócelas! Podrás leer la descripción que cuenta sobre el proyecto, el nombre del emprendedor y la cantidad de votos que tiene. 
+![Listado d ideas a mentorear](https://image.ibb.co/nDntgF/ideas_mentoreadas.png)
+
+2- ¡Entra a las ideas que te han asignado y conócelas! Para entrar a cada idea debes hacer *click* en su nombre. Esto te llevará directo al enlace de la idea, donde te encontrarás con la descripción del proyecto, el nombre del emprendedor y la cantidad de *apoyos* que tiene. Paralelamente, podrás ver la cantidad de comentarios que le han hecho y las imágenes y videos subidos por el/la emprendedor/a.
+
+![Contenido de las ideas](https://image.ibb.co/mi8igF/ideaSL.png) 
 
 
 ### CAPÍTULO III
-#### **Cómo mentorear?**
+#### **¿Cómo mentorear?**
 
-1-Para comenzar a mentorear en esta etapa, solamente tienes que ir al cuadro de dialogo y comenzar a realizar preguntas. 
+1-Para comenzar a mentorear en esta etapa debes publicar un mensaje, al igual como se hace en *facebook* u otras redes sociales. El recuedro de texto se encuentra bajo las imágenes subidas por la idea, bajo el texto "*colabora*".   
 
 2-Te avisaremos a tu mail cuando el emprendedor haya contestado tus preguntas. Para lograr una conversación fluida deberás estar pendiente de estos avisos. Así te asegurarás de no dejar pasar demasiado tiempo en los tiempos de pregunta/respuesta. 
 
 ### CAPÍTULO IV
 #### **Tips para mentores**
 
-1- Tus mensajes son claves! Deben reflejar el compromiso de tu labor. Date el tiempo de hacer que cada participante se sienta único y especial. 
+- ¡Tus mensajes son claves! Deben reflejar el compromiso de tu labor. Date el tiempo de hacer que cada participante se sienta único y especial. Esto lo puedes lograr saludando al emprendimiento por su nombre y sin hacer copy/paste.
+- En tu primera interacción con los emprendedores debes reflejar lo que te define como mentor: la cercanía, carisma y espíritu colaborativo. Te recomendamos saludar, agradecer la participación y felicitar el valor de subir una idea a una plataforma abierta.
+- Puede ser que los emprendedores no hayan explicado muy bien su propuesta de valor o hayan olvidado algo que tú crees que es muy importante de emncionar. Sólo te darás cuenta de esto conversando con los emprendedores y haciendo preguntas de sus ideas. Si es que esto sucede, recuérdale al emprendedor que siempre puede editar sus ideas para ingresar cambios mientras dure la etapa de “ideación”.
+- Busca en las bases del desafío cuáles serán los criterios de evaluación, recuérdaselos e invita al emprendedor/a a que haga lo mismo con el fin de que su propuesta se ajuste a lo que buscamos en el desafío.
+- Tu participación como mentor es clave, pero también sabemos que tienes una agenda completa. Es por eso que para poder agregarle el mayor valor a los emprendedores, te proponemos que agendes tu participación como mentor (*Una hora por semana te permitirá tener suficiente contacto con los emprendedores y poder aportarles muchísimo*).
 
-2- En tu primera interacción con los emprendedores debes reflejar lo que te define como mentor: la cercanía, carisma y espíritu colaborativo. 
-• Empieza saludando al emprendedor por su nombre (este se encuentra en el extremo superior derecho del perfil de la idea) y agradécele por su participación. 
-Preséntate con tu nombre, y un mensaje motivador.
-Recuérdale al emprendedor que siempre puede editar sus ideas para ingresar cambios mientras dure la etapa de “ideación”
-Invítalo a que revise las bases para que conozca los criterios que vamos a evaluar.
-
-3- Tu participación como mentor es clave, pero también sabemos que tienes una agenda completa, es por eso que para poder agregarle el mayor valor a los emprendedores, te proponemos que agendes tu participación como mentor:
-*Una hora por semana te permitirá tener suficiente contacto con los emprendedores y poder aportarles muchísimo.
 
 
 ### CAPÍTULO V
-#### **AYÚDALO A MEJORAR SU IDEA** 
+#### **¡AYÚDALO A MEJORAR SU IDEA!** 
 
 1- Una vez que hayas leído la idea, usa comentarios y preguntas para ayudar al emprendedor a que haga la mejor propuesta posible.
 Recuerda que una gran idea debe dejar claro lo siguiente:
 
 - **El problema:** ¿qué necesidad social busca resolver?
 - **El beneficiario:** ¿qué tanto conoce a la población o grupo que quiere impactar?
-- **La propuesta:** ¿cómo va a resolver el programa? ¿usa algún tipo de tecnología?
-- **Modelo de negocio:** ¿cómo va a generar ingresos y ser sustentable el proyecto?
-- **Equipo:** ¿quienes conforman el equipo?
-- **La necesidad:** ¿qué necesidad tiene el emprendedor para poder hacer realidad su propuesta?
+- **La propuesta:** ¿cómo va a resolver el problema? ¿usa algún tipo de tecnología? ¿en qué se diferencia su propuesta con otras similares?
+- **Modelo de negocio:** ¿cómo va a generar ingresos y hacer sustentable el proyecto?
+- **Equipo:** ¿quiénes conforman el equipo?
+- **La necesidad:** ¿qué necesidad tiene la comunidad que sufre del problema social detectado?
 
-Realiza preguntas que le permitan al emprendedor contestar de la manera mas completa posible estos aspectos. Y recuérdale editar su idea de ser necesario. 
+Realiza preguntas que le permitan al emprendedor contestar de la manera más completa posible estos aspectos. Y recuérdale editar su idea de ser necesario. 
 
-2- Una de las cosas más importantes que evaluaremos es su potencial y su disposición para aprender y seguir mejorando su idea, así que fíjate que tan bien responden a tus comentarios.
+2- Una de las cosas más importantes que evaluaremos es su potencial y su disposición para aprender y seguir mejorando su idea, así que fíjate qué tan bien responden a tus comentarios.
 
-3- Contextualízalo! Recuérdale al participante el objetivo del concurso y reitérale los objetivos de la etapa en la que se encuentra.
+3- ¿Contextualízalo! Recuérdale al participante el objetivo del concurso y reitérale los objetivos de la etapa en la que se encuentra.
 
 
 ### CAPÍTULO VI
 #### **GUÍA DE PREGUNTAS** 
 
-Al mentorear una idea tendrás la opción de realizarle preguntas para saber más sobre su propuesta y guiarlo en el desarrollo de su idea, o comentarios o respuestas a dudas que puedan significarle un aporte.
-Cuando realices un comentario que implique opiniones subjetivas, recuerda siempre dejar en claro que se trata sólo de una sugerencia y hazle saber al participante que él tiene la decisión final.
-Te compartimos algunas preguntas que puedes hacerle al emprendedor.
+Al mentorear una idea tendrás la opción de realizarle preguntas para saber más sobre su propuesta y guiarlo en el desarrollo de su idea, o comentarios o respuestas a dudas que puedan significarle un aporte. Cuando realices un comentario que implique opiniones subjetivas, recuerda siempre dejar en claro que se trata sólo de una sugerencia y hazle saber al participante que él tiene la decisión final.Te compartimos algunas preguntas que puedes hacerle al emprendedor:
 
-**Sobre la coherencia**
+**Sobre el problema social y la coherencia**
 
 - ¿Cuál es el problema que aborda tu propuesta?
 - ¿Cómo tu idea se hace cargo de resolver una problemática relacionada con …. (temática del desafío) ?
 - ¿Cómo tu propuesta responde a los objetivos del concurso que aparecen en las bases?
 - ¿Podrías definir de manera concreta cuál es el problema que resuelve tu idea?
-- ¿Cuál es el objetivo general de tu solución?
 - De todo lo que planteas, ¿cuál es el foco central de tu propuesta?
-- Si tuvieses que identificar sólo uno de los ejes de tu propuesta, ¿cuál sería?
 
-**Sobre el impacto**
+**Sobre la solución y su impacto**
 
 - ¿Cuál es el público objetivo de tu propuesta?
 - ¿Qué personas podrían acceder a tu solución?
@@ -102,23 +101,19 @@ Te compartimos algunas preguntas que puedes hacerle al emprendedor.
 - ¿Cómo lograrás que tu propuesta llegue a la mayor cantidad de personas?
 - ¿Sabes qué número aproximado de demanda tendrías en el país?
 - ¿Cómo podrías maximizar el número de usuarios de tu solución?
-- De todo lo que planteas, ¿cuál es el foco central de tu propuesta?
 
-**Sobre la creatividad**
+**Sobre la innovación y creatividad**
 
 - ¿Cómo se diferencia tu propuesta de lo que actualmente existe?
-- ¿Cuáles son las características creativas de tu idea?
 - ¿Qué elementos podrías incorporarle a tu producto o servicio, para diferenciarlo de lo que ya existe?
-- ¿Sabes si existe algo similar y qué sello original piensas darle a tu propuesta?
-- Puedes incorporarle elementos creativos a tu idea en el diseño físico de tu producto, estrategia de venta, difusión, etc. Piensa en algunos.
-- Puedes averiguar diversas técnicas para favorecer la creatividad dentro de una idea. El brainstorming o lluvia de ideas es una de ellas, ¡busca la tuya!
+- ¿Sabes si existe algo similar?
 
 
 ### Capitulo VII
 #### **DUDAD ADMINISTRATIVAS**
 
-En caso de que los participantes te pregunten cuestiones administrativas y no sepas la respuesta contáctate con el equipo de Socialab.
-Tranquil@. Lo más probable es que estas te las realicen con mayor frecuencia en las próximas etapas del desafío, cuando tengas menos proyectos que mentorear.
+En caso de que los participantes te pregunten cuestiones administrativas y no sepas la respuesta, contáctate con el equipo de Socialab.
+Tranquil@, lo más probable es que estas te las realicen con mayor frecuencia en las próximas etapas del desafío, cuando tengas menos proyectos que mentorear.
 
 
 ### Capitulo VIII
@@ -130,17 +125,8 @@ En las próximas etapas del desafío te encontrarás con otros criterios de eval
 * **Segmento de beneficiarios o clientes:** ¿Quién pagará por este servicio y quiénes son los beneficiarios directos?
 * **Factibilidad:** ¿Cuáles son los requisitos técnicos y económicos con los que debe contar tu proyecto para ser viable?
 * **Cocreación:** ¿Con quiénes piensas testear tu propuesta para validarla? ¿Qué prototipo de baja fidelidad piensas realizar?
-* **Sostenibilidad** y modelo de negocios: ¿Cómo piensas financiar la ejecución de tu propuesta?
-* **Equipo emprendedor:** ¿Posees un equipo de trabajo? Si no es así, ¿has pensado en quiénes necesitas?
+* **Sostenibilidad y modelo de negocios**: ¿Cómo piensas financiar la ejecución de tu propuesta?
+* **Equipo emprendedor:** ¿Posees un equipo de trabajo? Si no es así, ¿has pensado en quiénes podrían conformarlo?
 * **Escalabilidad:** ¿Cómo tu proyecto podría expandirse y crecer en el tiempo? ¿Has pensado en su ejecución fuera de Chile?
 
-
-### CAPÍTULO VIX
-#### **Siempre ten en mente ...**
-
-Buscamos ideas que respondan a estos cinco criterios generales :
-* **Innovación:** La idea presenta un servicio o producto novedoso y deja obsoleta soluciones existentes.
-* **Impacto Social:** La idea responde a una problemática real que puede mejorar la calidad de vida de un número considerable de personas que sufren algún tipo de vulnerabilidad.
-* **Sustentabilidad:** La idea posee un modelo de negocios sólido que le otorga factibilidad económica y comercial.
-* **Equipo:** Detrás de la propuesta existe un equipo de trabajo comprometido y con roles definidos.
-* **Escalabilidad:** El proyecto podría expandirse en el tiempo y ejecutarse a mayor escala en un futuro.
+**¡MUHCAS GRACIAS! esperamos que esta guía haya sido de utilidad y puedas comenzar cuanto antes el proceso de mentoreo**
